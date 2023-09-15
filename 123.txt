@@ -1,0 +1,25 @@
+Nhiệm vụ của bạn là in ra N số Fibonacci đầu tiên, một số đầu tiên trong dãy Fibonacci là 1, 1, 2, 3, 5, 8....
+
+Input Format
+
+Dòng duy nhất chứa số nguyên dương N
+
+Constraints
+
+1<=N<=92
+
+Output Format
+
+In ra N số Fibonacci đầu tiên, mỗi số trên 1 dòng
+
+Sample Input 0
+
+6
+Sample Output 0
+
+1
+1
+2
+3
+5
+8
